@@ -1,0 +1,10 @@
+{
+    "@statuscompliance/blockchainizer-node-blockchainizer": {
+        "node": {
+            "input-name": "Node name",
+            "label": "Some Node",
+            "input": "Input",
+            "output": "Output"
+        }
+    }
+}
